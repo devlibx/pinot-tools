@@ -1,6 +1,8 @@
 ### How to run
 
-1. Set the following env vairable
+NOTE - it only takes backup of REALTIME tables, not the offline
+
+1. Set the following env variable
 
 ```shell
 # This is the source Pinot
